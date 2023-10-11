@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "Picture": "https://i.ibb.co/cFP2d6k/h1.jpg",
+    "Title": "Healthy Living",
+    "Category": "Health",
+    "Category_bg": "#FF5733",
+    "Description": "Lorem ipsum description for Product 1.",
+    "Price": 200
+  },
+  {
+    "id": 2,
+    "Picture": "https://i.ibb.co/Qbrps0C/h2.jpg",
+    "Title": "Medical Care",
+    "Category": "Health",
+    "Category_bg": "#FF5733",
+    "Description": "Lorem ipsum description for Product 1.",
+    "Price": 200
+  },
+  {
+    "id": 3,
+    "Picture": "https://i.ibb.co/3Ctyf2w/h3.jpg",
+    "Title": "Clean water for children",
+    "Category": "Health",
+    "Category_bg": "#FF5733",
+    "Description": "Lorem ipsum description for Product 1.",
+    "Price": 200
+  },
+  {
+    "id": 4,
+    "Picture": "https://i.ibb.co/brxvzmq/e1.jpg",
+    "Title": "Good education",
+    "Category": "Education",
+    "Category_bg": "#FF5733",
+    "Description": "Lorem ipsum description for Product 1.",
+    "Price": 200
+  },
+  {
+    "id": 5,
+    "Picture": "https://i.ibb.co/GtfktpZ/e2.jpg",
+    "Title": "Learning Resources",
+    "Category": "Education",
+    "Category_bg": "#FF5733",
+    "Description": "Lorem ipsum description for Product 1.",
+    "Price": 200
+  },
+  {
+    "id": 6,
+    "Picture": "https://i.ibb.co/V9CwDB7/e3.jpg",
+    "Title": "Educational Technology",
+    "Category": "Education",
+    "Category_bg": "#FF5733",
+    "Description": "Lorem ipsum description for Product 1.",
+    "Price": 200
+  },
+  {
+    "id": 7,
+    "Picture": "https://i.ibb.co/Pms5gn2/c1.jpg",
+    "Title": "Used Clothing Drive",
+    "Category": "Clothing",
+    "Category_bg": "#FF5733",
+    "Description": "Lorem ipsum description for Product 1.",
+    "Price": 200
+  },
+  {
+    "id": 8,
+    "Picture": "https://i.ibb.co/q9bS28G/c2.jpg",
+    "Title": "Men's Fashion",
+    "Category": "Clothing",
+    "Category_bg": "#FF5733",
+    "Description": "Lorem ipsum description for Product 1.",
+    "Price": 200
+  },
+  {
+    "id": 9,
+    "Picture": "https://i.ibb.co/5W0y8dq/c3.jpg",
+    "Title": "Casual Wear",
+    "Category": "Clothing",
+    "Category_bg": "#FF5733",
+    "Description": "Lorem ipsum description for Product 1.",
+    "Price": 200
+  },
+  {
+    "id": 10,
+    "Picture": "https://i.ibb.co/3mwjDCj/f1.jpg",
+    "Title": "Better Food for Everyone",
+    "Category": "Food",
+    "Category_bg": "#FF5733",
+    "Description": "Lorem ipsum description for Product 1.",
+    "Price": 200
+  },
+  {
+    "id": 11,
+    "Picture": "https://i.ibb.co/TwXWdDs/f2.jpg",
+    "Title": "Organic and Natural Foods",
+    "Category": "Food",
+    "Category_bg": "#FF5733",
+    "Description": "Lorem ipsum description for Product 1.",
+    "Price": 200
+  },
+  {
+    "id": 12,
+    "Picture": "https://i.ibb.co/gv7JzBm/f3.jpg",
+    "Title": "Fresh Foods",
+    "Category": "Food",
+    "Category_bg": "#FF5733",
+    "Description": "Lorem ipsum description for Product 1.",
+    "Price": 200
+  }
+]

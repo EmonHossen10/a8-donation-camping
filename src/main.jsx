@@ -3,33 +3,30 @@ import ReactDOM from "react-dom/client";
 import "./index.css";
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import Root from "./Components/Root/Root";
- 
+
 import Donation from "./Components/Donation/Donation";
 import Statistics from "./Components/Statistics/Statistics";
-import Banner from "./Components/Banner/Banner";
-
+import Home from "./Components/Home/Home";
 
 const router = createBrowserRouter([
   {
     path: "/",
     element: <Root></Root>,
-    children:[
+    children: [
       {
-        path:"/",
-        element: <Banner></Banner>
+        path: "/",
+        element: <Home></Home>,
+      },
+
+      {
+        path: "/donation",
+        element: <Donation></Donation>,
       },
       {
-        path:"/donation",
-        element:<Donation></Donation>
+        path: "/stat",
+        element: <Statistics></Statistics>,
       },
-      {
-        path:"/stat",
-        element:<Statistics></Statistics>
-      }
-     
-      
-       
-    ]
+    ],
   },
 ]);
 
