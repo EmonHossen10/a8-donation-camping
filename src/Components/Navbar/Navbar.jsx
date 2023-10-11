@@ -1,3 +1,5 @@
+import {   NavLink } from "react-router-dom";
+
  
 
 const Navbar = () => {
@@ -7,10 +9,11 @@ const Navbar = () => {
     <img className="w-[220px]" src="/public/Logo.png" alt="" />
   </div>
   <div className="navbar-center    ">
-    <ul className="menu menu-horizontal px-1 pt-5">
-      <li><a>Home</a></li> 
-      <li><a>Donation</a></li>
-      <li><a>Statistics</a></li>
+    <ul className=" flex gap-6 menu-horizontal px-1 pt-5">
+       
+      <li><NavLink to="/" >Home</NavLink></li>
+      <li><NavLink to="/donation" >Donation</NavLink></li>
+      <li><NavLink to="/stat" >Statistics</NavLink></li>
        
        
     </ul>
