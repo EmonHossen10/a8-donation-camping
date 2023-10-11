@@ -7,6 +7,8 @@ import Root from "./Components/Root/Root";
 import Donation from "./Components/Donation/Donation";
 import Statistics from "./Components/Statistics/Statistics";
 import Home from "./Components/Home/Home";
+import Cards from "./Components/Cards/Cards";
+import CardDetails from "./Components/CardDetails/CardDetails";
 
 const router = createBrowserRouter([
   {
@@ -16,6 +18,17 @@ const router = createBrowserRouter([
       {
         path: "/",
         element: <Home></Home>,
+        loader: () => fetch("/public/data.json"),
+      },
+      {
+        path: "/cards",
+        element: <Cards></Cards>,
+         
+      },
+      {
+        path:"/cards/:id",
+        element:<CardDetails></CardDetails>,
+        loader:( )=>fetch(`/public/data.json`)
       },
 
       {

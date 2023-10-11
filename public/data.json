@@ -5,7 +5,7 @@
     "Title": "Healthy Living",
     "Category": "Health",
     "Category_bg": "#0052FF",
-    "Description": "Lorem ipsum description for Product 1.",
+    "Description": "Health is a multidimensional and paramount facet of human well-being. It encompasses physical, mental, and social dimensions, making it a topic of global significance with profound implications for individuals and society at large. Physical health is all about maintaining the well-being of the body through factors such as proper nutrition, regular exercise, and routine medical check-ups. This not only reduces the risk of chronic diseases but also enhances longevity and the ability to participate in daily activities. Equally vital is mental health, which includes emotional, psychological, and social well-being. It is essential to recognize that mental health conditions are common and can affect anyone. ",
     "Price": 200
   },
   {
@@ -14,8 +14,8 @@
     "Title": "Good education",
     "Category": "Education",
     "Category_bg": "#FF444A",
-    "Description": "Lorem ipsum description for Product 1.",
-    "Price": 200
+    "Description": "Education is a cornerstone of individual and societal progress, serving as a catalyst for personal growth, economic development, and social advancement. It plays a pivotal role in equipping individuals with the knowledge, skills, and values needed to thrive in an ever-evolving world. A well-rounded education system not only imparts academic knowledge but also fosters critical thinking, problem-solving abilities, and a deep understanding of diverse cultures and perspectives. Moreover, education has the power to break the cycle of poverty, reduce inequality, and promote social cohesion. It can pave the way for innovation and technological advancement.",
+    "Price": 250
   },
   {
     "id": 7,
@@ -23,8 +23,8 @@
     "Title": "Used Clothing Drive",
     "Category": "Clothing",
     "Category_bg": "#79C23F",
-    "Description": "Lorem ipsum description for Product 1.",
-    "Price": 200
+    "Description": "Clothing is more than just a basic necessity; it is a powerful means of self-expression, cultural identity, and social interaction. Beyond its practical function of providing protection and comfort, clothing reflects individual style, values, and even personal aspirations. In today's world, it is often seen as a form of art, allowing people to create and communicate their unique identities. Fashion trends constantly evolve, reflecting shifts in society, culture, and technology. At the same time, clothing has the potential to be a global force for sustainability and ethical production, promoting responsible consumer choices. The clothing industry, however, faces significant challenges related to environmental impact, labor conditions, and waste. ",
+    "Price": 300
   },
   {
     "id": 11,
@@ -32,8 +32,8 @@
     "Title": "Organic and Natural Foods",
     "Category": "Food",
     "Category_bg": "#B2533E",
-    "Description": "Lorem ipsum description for Product 1.",
-    "Price": 200
+    "Description": "Food is an essential aspect of human existence that goes far beyond mere sustenance. It is a reflection of culture, history, and geography, and it plays a significant role in our daily lives. The choices we make about what we eat impact our health, environment, and the global economy. Our relationship with food extends beyond nutrition, as it often serves as a social and emotional connection, bringing people together during meals and celebrations. Moreover, the modern food industry faces challenges related to sustainability, including issues of food waste, environmental impact, and the equitable distribution of resources. These challenges have led to discussions about sustainable agriculture,",
+    "Price": 400
   },
   {
     "id": 10,
@@ -41,8 +41,8 @@
     "Title": "Better Food for Everyone",
     "Category": "Food",
     "Category_bg": "#B2533E",
-    "Description": "Lorem ipsum description for Product 1.",
-    "Price": 200
+    "Description": "Food is an essential aspect of human existence that goes far beyond mere sustenance. It is a reflection of culture, history, and geography, and it plays a significant role in our daily lives. The choices we make about what we eat impact our health, environment, and the global economy. Our relationship with food extends beyond nutrition, as it often serves as a social and emotional connection, bringing people together during meals and celebrations. Moreover, the modern food industry faces challenges related to sustainability, including issues of food waste, environmental impact, and the equitable distribution of resources. These challenges have led to discussions about sustainable agriculture,",
+    "Price": 500
   },
   {
     "id": 8,
@@ -50,7 +50,7 @@
     "Title": "Men's Fashion",
     "Category": "Clothing",
     "Category_bg": "#79C23F",
-    "Description": "Lorem ipsum description for Product 1.",
+    "Description": "Clothing is more than just a basic necessity; it is a powerful means of self-expression, cultural identity, and social interaction. Beyond its practical function of providing protection and comfort, clothing reflects individual style, values, and even personal aspirations. In today's world, it is often seen as a form of art, allowing people to create and communicate their unique identities. Fashion trends constantly evolve, reflecting shifts in society, culture, and technology. At the same time, clothing has the potential to be a global force for sustainability and ethical production, promoting responsible consumer choices. The clothing industry, however, faces significant challenges related to environmental impact, labor conditions, and waste. ",
     "Price": 200
   },
   {
@@ -59,18 +59,18 @@
     "Title": "Learning Resources",
     "Category": "Education",
     "Category_bg": "#FF444A",
-    "Description": "Lorem ipsum description for Product 1.",
-    "Price": 200
+    "Description": "Education is a cornerstone of individual and societal progress, serving as a catalyst for personal growth, economic development, and social advancement. It plays a pivotal role in equipping individuals with the knowledge, skills, and values needed to thrive in an ever-evolving world. A well-rounded education system not only imparts academic knowledge but also fosters critical thinking, problem-solving abilities, and a deep understanding of diverse cultures and perspectives. Moreover, education has the power to break the cycle of poverty, reduce inequality, and promote social cohesion. It can pave the way for innovation and technological advancement.",
+    "Price": 250
   },
- 
+
   {
     "id": 2,
     "Picture": "https://i.ibb.co/Qbrps0C/h2.jpg",
     "Title": "Medical Care",
     "Category": "Health",
     "Category_bg": "#0052FF",
-    "Description": "Lorem ipsum description for Product 1.",
-    "Price": 200
+    "Description": "Health is a multidimensional and paramount facet of human well-being. It encompasses physical, mental, and social dimensions, making it a topic of global significance with profound implications for individuals and society at large. Physical health is all about maintaining the well-being of the body through factors such as proper nutrition, regular exercise, and routine medical check-ups. This not only reduces the risk of chronic diseases but also enhances longevity and the ability to participate in daily activities. Equally vital is mental health, which includes emotional, psychological, and social well-being. It is essential to recognize that mental health conditions are common and can affect anyone.",
+    "Price": 350
   },
   {
     "id": 3,
@@ -78,10 +78,9 @@
     "Title": "Clean water for children",
     "Category": "Health",
     "Category_bg": "#0052FF",
-    "Description": "Lorem ipsum description for Product 1.",
-    "Price": 200
+    "Description": "Health is a multidimensional and paramount facet of human well-being. It encompasses physical, mental, and social dimensions, making it a topic of global significance with profound implications for individuals and society at large. Physical health is all about maintaining the well-being of the body through factors such as proper nutrition, regular exercise, and routine medical check-ups. This not only reduces the risk of chronic diseases but also enhances longevity and the ability to participate in daily activities. Equally vital is mental health, which includes emotional, psychological, and social well-being. It is essential to recognize that mental health conditions are common and can affect anyone.",
+    "Price": 450
   },
-
 
   {
     "id": 6,
@@ -89,10 +88,9 @@
     "Title": "Educational Technology",
     "Category": "Education",
     "Category_bg": "#FF444A",
-    "Description": "Lorem ipsum description for Product 1.",
-    "Price": 200
+    "Description": "Education is a cornerstone of individual and societal progress, serving as a catalyst for personal growth, economic development, and social advancement. It plays a pivotal role in equipping individuals with the knowledge, skills, and values needed to thrive in an ever-evolving world. A well-rounded education system not only imparts academic knowledge but also fosters critical thinking, problem-solving abilities, and a deep understanding of diverse cultures and perspectives. Moreover, education has the power to break the cycle of poverty, reduce inequality, and promote social cohesion. It can pave the way for innovation and technological advancement.",
+    "Price": 1000
   },
-  
 
   {
     "id": 9,
@@ -100,17 +98,17 @@
     "Title": "Casual Wear",
     "Category": "Clothing",
     "Category_bg": "#79C23F",
-    "Description": "Lorem ipsum description for Product 1.",
-    "Price": 200
+    "Description": "Clothing is more than just a basic necessity; it is a powerful means of self-expression, cultural identity, and social interaction. Beyond its practical function of providing protection and comfort, clothing reflects individual style, values, and even personal aspirations. In today's world, it is often seen as a form of art, allowing people to create and communicate their unique identities. Fashion trends constantly evolve, reflecting shifts in society, culture, and technology. At the same time, clothing has the potential to be a global force for sustainability and ethical production, promoting responsible consumer choices. The clothing industry, however, faces significant challenges related to environmental impact, labor conditions, and waste. ",
+    "Price": 1200
   },
- 
+
   {
     "id": 12,
     "Picture": "https://i.ibb.co/gv7JzBm/f3.jpg",
     "Title": "Fresh Foods",
     "Category": "Food",
     "Category_bg": "#B2533E",
-    "Description": "Lorem ipsum description for Product 1.",
-    "Price": 200
+    "Description": "Food is an essential aspect of human existence that goes far beyond mere sustenance. It is a reflection of culture, history, and geography, and it plays a significant role in our daily lives. The choices we make about what we eat impact our health, environment, and the global economy. Our relationship with food extends beyond nutrition, as it often serves as a social and emotional connection, bringing people together during meals and celebrations. Moreover, the modern food industry faces challenges related to sustainability, including issues of food waste, environmental impact, and the equitable distribution of resources. These challenges have led to discussions about sustainable agriculture,",
+    "Price": 500
   }
 ]

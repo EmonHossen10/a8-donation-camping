@@ -1,7 +1,10 @@
-const Card = ({ data }) => {
-  const { Picture, Title, Category, Category_bg } = data;
+import { Link } from "react-router-dom";
 
+const Card = ({ data }) => {
+  const { id,Picture, Title, Category, Category_bg } = data;
+ 
   return (
+    <Link to={`/cards/${id}`}  >
     <div
       style={{ backgroundColor: Category_bg + "40" }}
       className="card   shadow-xl"
@@ -24,6 +27,7 @@ const Card = ({ data }) => {
         </div>
       </div>
     </div>
+    </Link>
   );
 };
 
