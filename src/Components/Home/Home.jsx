@@ -4,13 +4,11 @@ import Cards from "../Cards/Cards";
 import { useState } from "react";
 
 const Home = () => {
- 
+  const [category, setCategory] = useState(useLoaderData());
 
-  const [category,setCategory]=useState(useLoaderData());
-   
   return (
     <div>
-      <Banner setCategory={setCategory} ></Banner>
+      <Banner setCategory={setCategory}></Banner>
       <Cards category={category}></Cards>
     </div>
   );
