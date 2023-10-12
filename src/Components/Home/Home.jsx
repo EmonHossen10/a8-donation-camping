@@ -1,14 +1,17 @@
 import { useLoaderData } from "react-router-dom";
 import Banner from "../Banner/Banner";
 import Cards from "../Cards/Cards";
+import { useState } from "react";
 
 const Home = () => {
-  const datas = useLoaderData();
-  // console.log(data)
+ 
+
+  const [category,setCategory]=useState(useLoaderData());
+   
   return (
     <div>
-      <Banner></Banner>
-      <Cards datas={datas}></Cards>
+      <Banner setCategory={setCategory} ></Banner>
+      <Cards category={category}></Cards>
     </div>
   );
 };
