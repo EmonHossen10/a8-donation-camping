@@ -12,8 +12,8 @@ const Donation = () => {
     if (savedItems) {
       setItem(savedItems);
     } else {
-      console.log("no item here");
-      setNoFound("Haven't donated yet");
+       
+      setNoFound("Haven't donated yet !!!");
     }
   }, []);
 
@@ -24,7 +24,7 @@ const Donation = () => {
   return (
     <div>
       {noFound ? (
-        <p>{noFound}</p>
+        <p className="md:text-4xl text-2xl  text-center font-bold mt-24" >{noFound}</p>
       ) : (
         <div className="grid grid-cols-1 md:grid-cols-1 lg:grid-cols-2 my-10 ">
           {item.slice(0,isShow).map((donation) => (

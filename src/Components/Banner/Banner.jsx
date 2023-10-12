@@ -17,7 +17,6 @@ const Banner = ({ setCategory }) => {
 
     if (filterData.length > 0) {
       toast.success(`Total ${filterData.length} category Found`);
-      console.log(filterData);
       setCategory(filterData);
     } else {
       toast.error("inValid search");
