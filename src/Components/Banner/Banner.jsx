@@ -4,10 +4,10 @@ import { ToastContainer, toast } from "react-toastify";
 
 const Banner = ({ setCategory }) => {
   const allData = useLoaderData();
+  console.log(allData);
   const searchRef = useRef();
+  console.log(searchRef.current?.value);
 
-
-  
   const handleSubmit = () => {
     const search = searchRef?.current?.value.toLowerCase();
 
